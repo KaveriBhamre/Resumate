@@ -1,8 +1,8 @@
-# 🎵 Resonate
+# 🎵 Resumate
 
 **Make your resume resonate — with recruiters and with ATS systems.**
 
-Resonate is a full-stack AI-powered resume analyzer built for students navigating 
+Resumate is a full-stack AI-powered resume analyzer built for students navigating 
 placement season. Upload your resume, get an instant ATS score, discover missing 
 skills, and see exactly how well you match a specific job description — all in 
 one place.
@@ -49,7 +49,7 @@ whether it's actually a fit for the role I'm targeting. So I built it.
 
 ## 🧠 What I Learned
 
-Building Resonate meant going beyond tutorials — designing a stateless 
+Building Resumate meant going beyond tutorials — designing a stateless 
 JWT auth flow from scratch, engineering prompts for consistent structured 
 LLM output, handling multipart file uploads, and debugging real-world 
 integration issues. It's a small project, but every piece of it
