@@ -45,8 +45,15 @@ whether it's actually a fit for the role I'm targeting. So I built it.
 ---
 
 ## 🏗️ Architecture
+<img width="651" height="364" alt="image" src="https://github.com/user-attachments/assets/046bc8e0-a4ef-41ac-b059-f48de4f66e4f" />
 
-
+## 🚀 Supporting technologies include:
+- Spring Security and JWT: authenticate users and protect endpoints.
+- BCrypt: securely hash passwords.
+- Spring Data JPA: interact with MySQL using Java entities and repositories.
+- Apache PDFBox: extract text from PDF files.
+- RestTemplate: send HTTP requests to the Gemini API.
+- Jackson ObjectMapper: parse JSON into Java objects.
 ## 🧠 What I Learned
 
 Building Resumate meant going beyond tutorials — designing a stateless 
